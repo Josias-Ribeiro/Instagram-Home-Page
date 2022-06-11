@@ -12,6 +12,6 @@ Foi adicionado um favicon do instagram para manter a originalidade
 
 SEO da página ajustado utilizando corretamente o atributo alt das imagens.
 
-*Regras de responsividade: Ao chegar na resolução de 875px, a imagem do mobile já não é mais exibida (conforme site oficial do instagram)
+*Regras de responsividade: Ao chegar na resolução de 875px, a imagem do celular com as imagens animadas já não é mais exibida (conforme site oficial do instagram)
 
 ## 🚀 Let's code! 🚀
